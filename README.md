@@ -16,7 +16,7 @@ This dashboard was given to me by my instructor, it comprises of four different 
 ## Problem statement
 1.	What is the total sales made in the four years?
 2.	What is total orders placed in the four years?
-3.	Which customer s the most valued.
+3.	Which customer is the most valued.
 4.	What is the profit margin?
 5.	Which year brought in the most profit?
 6.	Which year was the most order placed?
@@ -31,7 +31,7 @@ This dashboard was given to me by my instructor, it comprises of four different 
 ---
 
 ## Data Sourcing
-The data ws shared to me via whatsapp. It was in **.xlsx** format. It consists of four (4) separate workbooks namely:
+The data was shared to me via whatsapp. It was in **.xlsx** format. It consists of four (4) separate workbooks namely:
 - 2017 order data – 817 rows and 8 column
 - 2018 order data – 860 rows and 8 columns 
 - 2019 order data – 854 rows and 8 columns
